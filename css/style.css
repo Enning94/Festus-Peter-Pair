@@ -1,0 +1,36 @@
+body {
+    background-color: beige;
+    width: auto;
+    height:auto; 
+    align-content: center;
+}
+#main {
+    background-color: beige;
+    width: auto;
+    height:auto; 
+    align-content: center;
+
+}
+#title { 
+
+    background-color: aquamarine;
+    text-align: center;
+    
+}
+#img-caption{
+
+    text-align: center;
+}
+#image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+#tribute-info{
+text-align: center;
+}
+#img-div{
+    width: 100%;
+    height: auto;
+}
